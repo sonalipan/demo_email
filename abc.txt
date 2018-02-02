@@ -1,1 +1,7 @@
 hello
+Studies and POC development
+
+Youtube channel -  AWS ECS videos 
+
+https://www.youtube.com/playlist?list=PLPiL2moTV7wak-0tjgnh-16cM-GU-JrOI
+
